@@ -14,3 +14,9 @@ ___
 2. Go to May Township from NW 120th St
 3. Take I-435 S and I-70 W to SW Wanamaker Rd in Topeka.
 4. Follow SW Wanamaker Rd and SW 6th Ave to your Kansas museum
+
+- Old Cowtown Museum
+- Shawnee Town 1929
+- Overland Park
+- Boot Hill,Dodge City
+- Spencer Museum of Art, Lawrence.
