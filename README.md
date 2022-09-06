@@ -20,3 +20,5 @@ ___
 - Overland Park
 - Boot Hill,Dodge City
 - Spencer Museum of Art, Lawrence.
+
+[Link to About Me](AboutMe.md)
