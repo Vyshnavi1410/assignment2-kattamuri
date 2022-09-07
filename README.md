@@ -9,7 +9,7 @@ From the earliest times to more current times, the Museum tells the story of our
 
 ___
 
-# WAY To THE MUSEUM
+# WAY TO THE MUSEUM
 1. Kansas City International Airport
 2. Go to May Township from NW 120th St
 3. Take I-435 S and I-70 W to SW Wanamaker Rd in Topeka.
@@ -22,3 +22,14 @@ ___
 - Spencer Museum of Art, Lawrence.
 
 [Link to About Me](AboutMe.md)
+___
+
+# IMPORTANT PLACES TO BE VISITED
+This section tells about the places that I am intrested in visiting. This table includes the name of the city and the location to be visited and also has the column containing estimated time of the visiting the location and time spending there.
+
+|   City Name   |   Location to Visit   |   Estimated Time   |
+|   ---------   |   -----------------   |   --------------   |
+|   St.Louis    |   Forest Park         |        6 Hrs       |
+|   Albany      |   Six Flags           |        1 day       |
+|   New York    |   Rochester           |        9 Hrs       |
+|   New York    |   Niagara Falls       |        10Hrs       |
