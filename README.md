@@ -33,3 +33,11 @@ This section tells about the places that I am intrested in visiting. This table 
 |   Albany      |   Six Flags           |        1 day       |
 |   New York    |   Rochester           |        9 Hrs       |
 |   New York    |   Niagara Falls       |        10Hrs       |
+
+___
+
+# QUOTES 
+
+>  Screw it, let’s do it. – **_Richard Branson_**
+
+>  If I’m gonna tell a real story, I’m gonna start with my name. – **_Kendrick Lamar_**
