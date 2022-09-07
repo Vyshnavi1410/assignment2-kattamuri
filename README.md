@@ -41,3 +41,27 @@ ___
 >  Screw it, let’s do it. – **_Richard Branson_**
 
 >  If I’m gonna tell a real story, I’m gonna start with my name. – **_Kendrick Lamar_**
+
+___
+
+# CODE FENCING
+
+>  HTTP or HTTPS
+
+<https://stackoverflow.com/questions/8375134/difference-between-http-and-https>
+
+```
+if (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off'
+    || $_SERVER['SERVER_PORT'] == 443) {
+
+  // HTTPS
+
+} else {
+
+  // HTTP
+
+}
+
+
+```
+<https://css-tricks.com/snippets/php/http-or-https/>
